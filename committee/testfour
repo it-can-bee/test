@@ -2,16 +2,16 @@
 info:
   name: testfour
   account-address: "0x0efb424965845f9b160dedf8624216d4078e5ca17576a1b6e45422678ecbb396"
-  protocol-key: lw2U/vu8dfU3TzENQaQhBXlf68DYiqpfXr86iPNBkcgsnpZI07mLMM71AYD2jR9EFWV7SG1qqPeSx6tUvv3cGpJS157OCsgiVc5r0QZpDeZVTaA+hMGmLsMXl53RfkZ0
+  protocol-key: tBlLQURR0M67JPoWT7YQL0A2YbFCe38j069QgmqZQiZmYbIB9hn7bDFYMoTSVrBuCFt7vlT/yHGO99hKVTa2pZ7N2FiQDkmM5QkowKa4xYAOcHdmpx+lNCc2x3HDX3k7
   worker-key: JU/EvdGasbVnys7lLkNuN1m7AqTrnhX5ho8fFFlZMQU=
   network-key: OcVWYubebeueSRjBImhjTahd7scCdv2PdkDrymHVBts=
   gas-price: 1000
   commission-rate: 200
-  network-address: /ip4/127.0.0.1/tcp/8180/http
-  p2p-address: /ip4/127.0.0.1/udp/8184
-  narwhal-primary-address: /ip4/127.0.0.1/udp/8181
-  narwhal-worker-address: /ip4/127.0.0.1/udp/8182
+  network-address: /ip4/127.0.0.1/tcp/8480/http
+  p2p-address: /ip4/127.0.0.1/udp/8484
+  narwhal-primary-address: /ip4/127.0.0.1/udp/8481
+  narwhal-worker-address: /ip4/127.0.0.1/udp/8482
   description: test4node
   image-url: ""
   project-url: ""
-proof_of_possession: t9DFHCMuzIy6EHIcy4sKa3KnCT9T2oFnBxPL4goub+Tw1hEKaa606io3ExM3HW1f
+proof_of_possession: s8Uz/I538iJf3TQk/4gB2ZzMeEEcOU0FilN9yZJfFgdk+8Gfv/NWuecbyfq95nLG
