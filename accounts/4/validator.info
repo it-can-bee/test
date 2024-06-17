@@ -1,0 +1,17 @@
+---
+info:
+  name: testfour
+  account-address: "0x0efb424965845f9b160dedf8624216d4078e5ca17576a1b6e45422678ecbb396"
+  protocol-key: lw2U/vu8dfU3TzENQaQhBXlf68DYiqpfXr86iPNBkcgsnpZI07mLMM71AYD2jR9EFWV7SG1qqPeSx6tUvv3cGpJS157OCsgiVc5r0QZpDeZVTaA+hMGmLsMXl53RfkZ0
+  worker-key: JU/EvdGasbVnys7lLkNuN1m7AqTrnhX5ho8fFFlZMQU=
+  network-key: OcVWYubebeueSRjBImhjTahd7scCdv2PdkDrymHVBts=
+  gas-price: 1008
+  commission-rate: 200
+  network-address: /dns/127.0.0.1/tcp/8080/http
+  p2p-address: /dns/127.0.0.1/udp/8084
+  narwhal-primary-address: /dns/127.0.0.1/udp/8081
+  narwhal-worker-address: /dns/127.0.0.1/udp/8082
+  description: test4node
+  image-url: ""
+  project-url: ""
+proof_of_possession: t9DFHCMuzIy6EHIcy4sKa3KnCT9T2oFnBxPL4goub+Tw1hEKaa606io3ExM3HW1f
