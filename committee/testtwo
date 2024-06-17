@@ -1,0 +1,17 @@
+---
+info:
+  name: testtwo
+  account-address: "0x03d4c13cd6d22d770d9d5ee9c8e07466581b9c1f1729be2afd69569e210c43c4"
+  protocol-key: uCr4epiHeEOywZkA/T65ELxCpogxGlrbNsD7evUYPKY6OxzpN+YUnGrhNLwIrAgSB3GSW2bL/4i75VJJmg6M+mheHT9uUwY3rg5N3GzhPDyZ1mS0gYhOtJKALHpG3HiG
+  worker-key: 5Q6VRY88MguT0kyl8yLVHIZR1eG8OZKybOBDT72Wf9Y=
+  network-key: 8QvqlqK15GQ665nRz21l+L7SvqJImmyNnfRXYyi7m/E=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /ip4/127.0.0.1/tcp/8180/http
+  p2p-address: /ip4/127.0.0.1/udp/8184
+  narwhal-primary-address: /ip4/127.0.0.1/udp/8181
+  narwhal-worker-address: /ip4/127.0.0.1/udp/8182
+  description: test2node
+  image-url: ""
+  project-url: ""
+proof_of_possession: gqmUuh/4g/QwLmM+kXhu7IolBoNOXcfhVumnHPfGyO4LSJ2ixf7W4/5hQ0kL+zMl

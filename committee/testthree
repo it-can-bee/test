@@ -1,0 +1,17 @@
+---
+info:
+  name: testthree
+  account-address: "0x7c4fab0b8bb60defb66edeea1cf6eda81711eefe8aaabf92bae767fcf79cf5cd"
+  protocol-key: siIbE4jPXPwLswFX+srlB7n3M0+JQU7RwpemrR6oofh+2Kwvod3vgaMwm6IJYrYVFL3pNjLVsq2yOrRt8HqYtOnyZEqEZznnF4XmCjfitxPN7r3yrdILu+5hPMF0jtxa
+  worker-key: /vtaGI1vPmN2ID+WP0ytZbBjt8snEQk+ZeFr+QtKrqo=
+  network-key: 3JyjtivnMqz0lwNjUI7FeITlFQNu8xitDapqnSUtaeY=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /ip4/127.0.0.1/tcp/8180/http
+  p2p-address: /ip4/127.0.0.1/udp/8184
+  narwhal-primary-address: /ip4/127.0.0.1/udp/8181
+  narwhal-worker-address: /ip4/127.0.0.1/udp/8182
+  description: test3node
+  image-url: ""
+  project-url: ""
+proof_of_possession: t51CyoiRWiylwtf1CEVObjvX0xnf9H7aNRUoHxSp8ha+hi/r8HA4fOrxaloaDD9c

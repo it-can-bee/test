@@ -1,0 +1,17 @@
+---
+info:
+  name: testone
+  account-address: "0x48d688e528ebc40ef627e5702c00cc51cee183df9e38072c0e2a1ddb53d9f7f7"
+  protocol-key: j/ZeTaVkj2L+IOIYkt9995BsUNJ47KjCpt6bGOBd19Yphg8BbhBXwSVJovgMElpyBy3825pdm1fTb6fboTWqjDf1XBXrISQl+d3Dt8rZ6WoiZFvzbhRc35RiqjmimGYV
+  worker-key: 0RFLdqRsfkGvskKmsGRouBL9UHoftyb/vj/gsrwsdpg=
+  network-key: 7oHtPj33pQqlFdUCaynp0fnK9naYTbDOv4qPqDHmUuc=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /ip4/127.0.0.1/tcp/8180/http
+  p2p-address: /ip4/127.0.0.1/udp/8184
+  narwhal-primary-address: /ip4/127.0.0.1/udp/8181
+  narwhal-worker-address: /ip4/127.0.0.1/udp/8182
+  description: testnode
+  image-url: ""
+  project-url: ""
+proof_of_possession: i0kn7Yh0xbwwswA2TGCUnW+FYbyVdanAeKm6htO8c1wFptHUsyXSf+WD2pSaaPu4
